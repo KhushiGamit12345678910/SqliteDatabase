@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">SqliteDatabase</string>
+
+    /* ----------------- All Enter Inputs ---------------- */
+
+    <string name="fullname">Enter fullname</string>
+    <string name="password">Enter password</string>
+    <string name="email">Enter email</string>
+    <string name="mobile">Enter mobile number</string>
+    <string name="insert_user_data">Insert user data</string>
+    <string name="view_user_data">View user data</string>
+    <string name="enter_address">Enter address</string>
+    <string name="insert_data">Successfully inserted</string>
+    <string name="gender">Gender :</string>
+    <string name="confirm_password">Enter confirm password</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+
+    /* ----------------- Error Messages -------------- */
+
+    <string name="please_enter_fullname">please enter fullname</string>
+    <string name="please_enter_mobile">please enter mobile number</string>
+    <string name="please_enter_address">please enter address</string>
+    <string name="please_enter_email">please enter email </string>
+    <string name="please_enter_password">please enter password </string>
+    <string name="invalid_email">invalid email </string>
+    <string name="valid_email">valid email </string>
+    <string name="error">password is not match</string>
+    <string name="error_message">Enter valid password</string>
+    <string name="please_edittext_char">please enter only alphabet character</string>
+
+
+    /* ------------------ Text String ---------------*/
+
+
+    <string name="registration">Registration</string>
+    <string name="set_title">Alert !!</string>
+    <string name="data_inserted">Data inserted</string>
+    <string name="set_message">This is a just message</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="have_account">Do you have a account</string>
+    <string name="dialog_message">Correct email and password</string>
+    <string name="ok_text">Ok</string>
+    <string name="no_text">No</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="name">fullname</string>
+    <string name="mobile_num">mobile number</string>
+    <string name="email_add">email</string>
+    <string name="gender_only">gender</string>
+    <string name="address">address</string>
+    <string name="update_data">update</string>
+    <string name="delete">Delete</string>
+    <string name="do_not_have_account">Do not have a account?</string>
+
+    /* ----------------------- Option Menu Strings ------------- */
+
+    <string name="my_account">My Account</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+
+    /* ------------------ Layouts Strings ----------------------*/
+
+    <string name="go_to_framelayout">Go To FrameLayout</string>
+    <string name="go_to_linearlayout">Go To LinearLayout</string>
+    <string name="go_to_relative">Go To RelativeLayout</string>
+    <string name="go_to_constraintlayout">Go To ConstraintLayout</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="frame_layout">FrameLayout</string>
+    <string name="relative_layout">RelativeLayout</string>
+    <string name="constraint_layout">ConstraintLayout</string>
+
+    /* ---------------Buttons String -----------------*/
+    <string name="button_1">Button1</string>
+    <string name="button_2">Button2</string>
+    <string name="button_3">Button3</string>
+    <string name="button_4">Button4</string>
+    <string name="button_5">Button5</string>
+    <string name="button_6">Button6</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signup">Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="signin">Sign In</string>
+    <string name="positive_button">Ok,p</string>
+
+    /* --------- successfully messages ----------------*/
+    <string name="login_successfully">Login successfully</string>
+    <string name="update_successfully">Update successfully</string>
+    <string name="update_not_successfully">not updated data</string>
+    <string name="delete_successfully">data deleted successfully</string>
+    <string name="not_delete_data">not deleted data</string>
+    <string name="registration_successfully">Registration successfully</string>
+    <string name="invalid_login_pass">username and password is not match</string>
+
+    /* --------- Dialog-box messages ----------------*/
+    <string name="confirmation_data_deleted">Are you sure delete data</string>
+
+
+
+</resources>
